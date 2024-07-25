@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Pradeep Rawat
-- 👀 I’m interested in Website Development.
-- 🌱 I’m currently learning Mern Stack Technologies.
-- 💞️ I’m looking to collaborate on front end project.
 - 📫 reach me on linkedIn: www.linkedin.com/in/p-rawat
 
 <!---
